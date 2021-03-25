@@ -1,0 +1,75 @@
+#home{
+float: left;
+height: 579px;
+ width: 100px;
+
+
+}
+#bird{
+    float: right;
+    background-color: black;
+    height: 579px;
+    width: 629px;
+
+}
+/*#image{
+    color: white;
+   
+}
+*/
+#text{
+    text-align: center;
+    color: ivory;
+    display: inline;
+    font-size: 70px;
+    font-family:Chelsea Market, cursive;
+}
+#small{
+    text-align: center;
+    color: ivory;
+    font-size: 50px;
+
+}
+.signup{
+    border-radius: 20px;
+    background: blue;
+    color: white;
+    padding: 10px;
+    width: 250px;
+    height: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+    
+    
+}
+.login{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid blue;
+    background: black;
+    padding: 10px;
+    width: 250px;
+    margin: 20px;
+    height: 30px;
+
+     
+}
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width:1350px;
+    height:70px;
+}
